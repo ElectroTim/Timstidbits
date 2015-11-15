@@ -1,2 +1,2 @@
 # Timstidbits
-My tid bits
+My tid bits aka Repository
